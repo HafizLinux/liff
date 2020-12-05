@@ -1,0 +1,15 @@
+table {
+	margin-left:auto;margin-right:auto
+}
+
+button {
+    margin: 4px;
+}
+
+div {
+    max-width: 100%;
+    text-align: center;
+}
+form input[type="text"]:focus {
+ outline-style: double;
+ }
